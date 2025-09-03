@@ -28,7 +28,7 @@ const CopyTopInvestors = () => {
               Copy top investors
             </h2>
             <p className="text-lg text-gray-300 mb-8 leading-relaxed">
-              With eToro's innovative <span className="font-semibold">CopyTrader™</span>, you can
+              With eToro&apos;s innovative <span className="font-semibold">CopyTrader™</span>, you can
               automatically copy the moves of other investors.
               Find investors you believe in and <span className="font-semibold">replicate their actions</span> in
               real time.

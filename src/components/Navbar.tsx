@@ -1,4 +1,5 @@
 "use client";
+import Link from "next/link";
 import { useState, useEffect, useRef } from "react";
 
 const Navbar = () => {
@@ -53,9 +54,9 @@ const Navbar = () => {
     >
       <div className="w-full mx-auto px-4 sm:px-6 lg:px-8">
         <div className="relative flex items-center justify-between h-20">
-          <a href="/" className="text-4xl font-bold text-green-600 flex-shrink-0">
+          <Link href="/" className="text-4xl font-bold text-green-600 flex-shrink-0">
             eToro
-          </a>
+          </Link>
 
 
           <div

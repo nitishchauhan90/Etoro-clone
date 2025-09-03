@@ -7,7 +7,7 @@ const Hero = () => {
 
         <div className="lg:w-1/2 text-center lg:text-left mb-10 lg:mb-0">
           <h1 className="text-4xl md:text-5xl lg:text-7xl font-light tracking-tighter text-[#2C073E] leading-tight mb-6">
-            YEP, IT'S
+            YEP, IT&apos;S
             <br />
             <span className="text-4xl md:text-5xl lg:text-7xl font-extrabold">ALL IN ONE APP</span>
           </h1>
