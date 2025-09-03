@@ -85,7 +85,8 @@ const Footer = () => {
             Mahe, Seychelles.
           </p>
           <p>
-            eToro (ME) Limited, is licensed and regulated by the Abu Dhabi Global Market (&quot;ADGM&quot;)'s Financial Services Regulatory Authority (&quot;FSAS&quot;) as an Authorised Person to conduct the Regulated Activities of (a) Dealing in Investments as Principal (Matched), (b) Arranging Deals in Investments, (c) Providing Custody, (d) Arranging Custody and (e) Managing Assets under the Financial Services and Markets Regulations 2015 (&quot;FSAS&quot;). Its registered office and its principal place of business is at Office 207 and 208, 15th Floor, Al Sarab Tower, ADGM Square, Al Maryah Island, Abu Dhabi, United Arab Emirates (“UAE”).
+            eToro (ME) Limited is licensed and regulated by the Abu Dhabi Global Market (&quot;ADGM&quot;)&#39;s Financial Services Regulatory Authority (&quot;FSRA&quot;) as an Authorised Person to conduct the Regulated Activities of (a) Dealing in Investments as Principal (Matched), (b) Arranging Deals in Investments, (c) Providing Custody, (d) Arranging Custody, and (e) Managing Assets under the Financial Services and Markets Regulations 2015 (&quot;FSMR&quot;). Its registered office and principal place of business is at Office 207 and 208, 15th Floor, Al Sarab Tower, ADGM Square, Al Maryah Island, Abu Dhabi, United Arab Emirates (&quot;UAE&quot;).
+
           </p>
           <p>
             Clients who are tax residents of Finland may be subject to Finnish income taxes on income (profits) on CFDs and crypto-assets in accordance with applicable Finnish tax laws. For more information, please refer to our <a className=" underline hover:text-black" href="#">Finnish tax laws page</a>.
